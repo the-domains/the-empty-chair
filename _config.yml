@@ -1,0 +1,28 @@
+name: 'The Empty Chair '
+favicon: null
+layout_spectrum: 0.251053363783285
+typography_spectrum: 0.6657132194377482
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5970414185430855
+  lightness: 0.726489448454231
+  saturation: 0.24890266940928996
+  rhythmicContrast: 0.37724522897042334
+purpose: []
